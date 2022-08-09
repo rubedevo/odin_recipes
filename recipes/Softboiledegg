@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Soft Boiled Egg</title>
+</head>
+<body>
+    <h1>The perfect Soft Boiled Egg</h1>
+    <img src="/IMG/hard-boiled-eggs-2.webp" alt="Different types of boiled eggs">
+    <p>With this recipe, your soft boiled egg will turn out great every time. The key to a good soft boiled egg is timing. </p>
+    <h2>Ingredients</h2>
+    <ul>
+        <li>Eggs</li>
+        <li>Skimmer</li>
+    </ul>
+    <h2>Steps</h2>
+    <ol>
+        <li>Bring a pot of water to the boil.</li>
+        <li>Reduce the heat to a simmer before adding in the eggs.</li>
+        <li>Use a skimmer to place the eggs in the pot. This way you avoid cracking the shell accidentally.</li>
+        <li>Immediately set a timer and cook the eggs accordingly
+            <ul>
+                <li>6 minutes: A liquidy yolk and soft white. This is perfect for eggs served in an egg cup.</li>
+                <li>6 1/2 minutes: A soft, jammy yolk. This is my favorite for eggs on toast or soft boiled eggs on a salad.</li>
+                <li>8 minutes: A soft yolk but firm enough to hold its own.</li>
+                <li>10 minutes: The early stages of a hard boiled egg, with just a smidge of softness in the middle.
+                </li>
+                <li>12 minutes: A hard boiled egg with a lighter yolk.
+                </li>
+                <li>14 minutes: Your traditional hard boiled egg with the lightest yolk and a firm white, but not overcooked.
+                </li>
+            </ul>
+        </li>
+
+
+    </ol>
+    
+</body>
+</html>
