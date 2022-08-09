@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Classic Deviled Egg</title>
+</head>
+<body>
+   <h1>Classic Deviled Egg Recipe</h1> 
+   <p>Deviled eggs are easy to make and a perfect use case for you eggs when you need a quick appetizer. The key to the best deviled eggs is to perfectly boil you egg beforehand.</p>
+   <p>You can check out my recipe for the <a href="/recipes/hardboiledegg">Percect Hard Boiled Egg</a> in this recipe book.</p>
+
+   <h2>Ingredients</h2>
+   <ul>
+    <li>Eggs</li>
+    <li>Mayonaise</li>
+    <li>Dijon Mustard</li>
+    <li>Apple Cider Vinegar</li>
+    <li>Paprika</li>
+    <li>Salt & Pepper</li>
+   </ul>
+   <h2>Steps</h2>
+   <ol>
+    <li><a href="/recipes/hardboiledegg">hard boil your eggs</a></li>
+    <li>Slice your eggs lengtwise and scoop out the egg yolk to a small bowl</li>
+    <li>Add all other ingredients to the yolk, stir until creamy</li>
+    <li>Use a small spoon to scoop the mixture back into the egg whites</li>
+    <li>Sprinkle a little paprika over the eggs before serving</li>
+   </ol>
+</body>
+</html>
